@@ -14,7 +14,7 @@ Node.js + Express + MongoDB (Mongoose) REST API for the Food Order Management Sy
 
 ## Demo 
 
-Run command " Npm run seed "
+Run command " npm run seed "
 
 then try login with below credentials
 
